@@ -1,0 +1,7 @@
+.dot {
+  position: absolute;
+  height: 1px;
+  width: 1px;
+  background-color: white;
+  box-shadow: violet 0px 0px 12px 10px;
+}
