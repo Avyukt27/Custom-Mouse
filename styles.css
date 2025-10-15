@@ -3,5 +3,9 @@
   height: 1px;
   width: 1px;
   background-color: white;
-  box-shadow: violet 0px 0px 12px 10px;
+  box-shadow: violet 0px 0px 12px 20px;
+}
+
+.star {
+  position: absolute;
 }
